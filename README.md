@@ -1,11 +1,11 @@
-# Nome do meu projeto
+# Financeiro PY
 
-Rápida descrição do objetivo de fazer esse projeto
+Por enquanto nada
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Financeiro PY**
-| :label: Tecnologias | python3.10 (tecnologias utilizadas)
+| :label: Tecnologias | python3.10
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
